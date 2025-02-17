@@ -1,0 +1,212 @@
+[error] [2025-02-14T02:32:44.187Z] : × Below file formats are not allowed in Sigma
+[info] [2025-02-14T02:32:44.201Z] :  ==> app\js\app.dc3de032.js.map
+[info] [2025-02-14T02:32:44.202Z] :  ==> app\js\chunk-vendors.32123afb.js.map
+[info] [2025-02-14T02:32:44.203Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2025-02-14T02:32:59.929Z] : × Below file formats are not allowed in Sigma
+[info] [2025-02-14T02:32:59.933Z] :  ==> app\js\app.dc3de032.js.map
+[info] [2025-02-14T02:32:59.934Z] :  ==> app\js\chunk-vendors.32123afb.js.map
+[info] [2025-02-14T02:32:59.935Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2025-02-14T02:33:25.963Z] : × Below file formats are not allowed in Sigma
+[info] [2025-02-14T02:33:25.967Z] :  ==> app\js\app.dc3de032.js.map
+[info] [2025-02-14T02:33:25.968Z] :  ==> app\js\chunk-vendors.32123afb.js.map
+[info] [2025-02-14T02:33:25.969Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2025-02-14T02:33:25.979Z] : × Below file formats are not allowed in Sigma
+[info] [2025-02-14T02:33:25.981Z] :  ==> app\js\app.dc3de032.js.map
+[info] [2025-02-14T02:33:25.983Z] :  ==> app\js\chunk-vendors.32123afb.js.map
+[info] [2025-02-14T02:33:25.984Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2025-02-14T08:39:35.217Z] : × Below file formats are not allowed in Sigma
+[info] [2025-02-14T08:39:35.221Z] :  ==> app\js\app.bf95de14.js.map
+[info] [2025-02-14T08:39:35.222Z] :  ==> app\js\chunk-vendors.b4da94d4.js.map
+[info] [2025-02-14T08:39:35.223Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2025-02-14T08:40:12.131Z] : × Below file formats are not allowed in Sigma
+[info] [2025-02-14T08:40:12.135Z] :  ==> app\js\app.bf95de14.js.map
+[info] [2025-02-14T08:40:12.136Z] :  ==> app\js\chunk-vendors.b4da94d4.js.map
+[info] [2025-02-14T08:40:12.137Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2025-02-14T08:40:12.146Z] : × Below file formats are not allowed in Sigma
+[info] [2025-02-14T08:40:12.146Z] :  ==> app\js\app.bf95de14.js.map
+[info] [2025-02-14T08:40:12.147Z] :  ==> app\js\chunk-vendors.b4da94d4.js.map
+[info] [2025-02-14T08:40:12.148Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2025-02-14T09:09:16.231Z] : × Below file formats are not allowed in Sigma
+[info] [2025-02-14T09:09:16.237Z] :  ==> app\js\app.c0e056a5.js.map
+[info] [2025-02-14T09:09:16.238Z] :  ==> app\js\chunk-vendors.b4da94d4.js.map
+[info] [2025-02-14T09:09:16.239Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2025-02-14T09:09:16.247Z] : × Below file formats are not allowed in Sigma
+[info] [2025-02-14T09:09:16.248Z] :  ==> app\js\app.c0e056a5.js.map
+[info] [2025-02-14T09:09:16.249Z] :  ==> app\js\chunk-vendors.b4da94d4.js.map
+[info] [2025-02-14T09:09:16.249Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2025-02-14T09:24:02.118Z] : × Below file formats are not allowed in Sigma
+[info] [2025-02-14T09:24:02.122Z] :  ==> app\js\app.826fcd05.js.map
+[info] [2025-02-14T09:24:02.123Z] :  ==> app\js\chunk-vendors.b4da94d4.js.map
+[info] [2025-02-14T09:24:02.124Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2025-02-14T09:24:02.134Z] : × Below file formats are not allowed in Sigma
+[info] [2025-02-14T09:24:02.134Z] :  ==> app\js\app.826fcd05.js.map
+[info] [2025-02-14T09:24:02.135Z] :  ==> app\js\chunk-vendors.b4da94d4.js.map
+[info] [2025-02-14T09:24:02.136Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2025-02-14T09:26:44.203Z] : × Below file formats are not allowed in Sigma
+[info] [2025-02-14T09:26:44.207Z] :  ==> app\js\app.5e84dceb.js.map
+[info] [2025-02-14T09:26:44.209Z] :  ==> app\js\chunk-vendors.b4da94d4.js.map
+[info] [2025-02-14T09:26:44.210Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2025-02-14T09:26:44.219Z] : × Below file formats are not allowed in Sigma
+[info] [2025-02-14T09:26:44.220Z] :  ==> app\js\app.5e84dceb.js.map
+[info] [2025-02-14T09:26:44.220Z] :  ==> app\js\chunk-vendors.b4da94d4.js.map
+[info] [2025-02-14T09:26:44.221Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2025-02-17T01:10:56.122Z] : × Below file formats are not allowed in Sigma
+[info] [2025-02-17T01:10:56.126Z] :  ==> app\js\app.322015ee.js.map
+[info] [2025-02-17T01:10:56.127Z] :  ==> app\js\chunk-vendors.b4da94d4.js.map
+[info] [2025-02-17T01:10:56.129Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2025-02-17T01:10:56.142Z] : × Below file formats are not allowed in Sigma
+[info] [2025-02-17T01:10:56.143Z] :  ==> app\js\app.322015ee.js.map
+[info] [2025-02-17T01:10:56.145Z] :  ==> app\js\chunk-vendors.b4da94d4.js.map
+[info] [2025-02-17T01:10:56.146Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2025-02-17T02:12:39.952Z] : × Below file formats are not allowed in Sigma
+[info] [2025-02-17T02:12:39.962Z] :  ==> app\js\app.6759d3ef.js.map
+[info] [2025-02-17T02:12:39.963Z] :  ==> app\js\chunk-vendors.b4da94d4.js.map
+[info] [2025-02-17T02:12:39.964Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2025-02-17T02:12:39.985Z] : × Below file formats are not allowed in Sigma
+[info] [2025-02-17T02:12:39.986Z] :  ==> app\js\app.6759d3ef.js.map
+[info] [2025-02-17T02:12:39.986Z] :  ==> app\js\chunk-vendors.b4da94d4.js.map
+[info] [2025-02-17T02:12:39.988Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2025-02-17T02:16:14.787Z] : × Below file formats are not allowed in Sigma
+[info] [2025-02-17T02:16:14.792Z] :  ==> app\js\app.c0b5cea8.js.map
+[info] [2025-02-17T02:16:14.793Z] :  ==> app\js\chunk-vendors.b4da94d4.js.map
+[info] [2025-02-17T02:16:14.793Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2025-02-17T02:16:14.803Z] : × Below file formats are not allowed in Sigma
+[info] [2025-02-17T02:16:14.803Z] :  ==> app\js\app.c0b5cea8.js.map
+[info] [2025-02-17T02:16:14.805Z] :  ==> app\js\chunk-vendors.b4da94d4.js.map
+[info] [2025-02-17T02:16:14.806Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2025-02-17T02:29:09.820Z] : × Below file formats are not allowed in Sigma
+[info] [2025-02-17T02:29:09.827Z] :  ==> app\js\app.ec076cdf.js.map
+[info] [2025-02-17T02:29:09.828Z] :  ==> app\js\chunk-vendors.b4da94d4.js.map
+[info] [2025-02-17T02:29:09.829Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2025-02-17T02:29:09.843Z] : × Below file formats are not allowed in Sigma
+[info] [2025-02-17T02:29:09.844Z] :  ==> app\js\app.ec076cdf.js.map
+[info] [2025-02-17T02:29:09.845Z] :  ==> app\js\chunk-vendors.b4da94d4.js.map
+[info] [2025-02-17T02:29:09.847Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2025-02-17T02:35:53.842Z] : × Below file formats are not allowed in Sigma
+[info] [2025-02-17T02:35:53.846Z] :  ==> app\js\app.c9528985.js.map
+[info] [2025-02-17T02:35:53.847Z] :  ==> app\js\chunk-vendors.b4da94d4.js.map
+[info] [2025-02-17T02:35:53.848Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2025-02-17T02:35:53.858Z] : × Below file formats are not allowed in Sigma
+[info] [2025-02-17T02:35:53.859Z] :  ==> app\js\app.c9528985.js.map
+[info] [2025-02-17T02:35:53.860Z] :  ==> app\js\chunk-vendors.b4da94d4.js.map
+[info] [2025-02-17T02:35:53.861Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2025-02-17T02:39:14.630Z] : × Below file formats are not allowed in Sigma
+[info] [2025-02-17T02:39:14.633Z] :  ==> app\js\app.8864ea91.js.map
+[info] [2025-02-17T02:39:14.634Z] :  ==> app\js\chunk-vendors.b4da94d4.js.map
+[info] [2025-02-17T02:39:14.635Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2025-02-17T02:39:14.642Z] : × Below file formats are not allowed in Sigma
+[info] [2025-02-17T02:39:14.643Z] :  ==> app\js\app.8864ea91.js.map
+[info] [2025-02-17T02:39:14.644Z] :  ==> app\js\chunk-vendors.b4da94d4.js.map
+[info] [2025-02-17T02:39:14.645Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2025-02-17T04:28:38.784Z] : × Below file formats are not allowed in Sigma
+[info] [2025-02-17T04:28:38.788Z] :  ==> app\js\app.13402721.js.map
+[info] [2025-02-17T04:28:38.789Z] :  ==> app\js\chunk-vendors.b4da94d4.js.map
+[info] [2025-02-17T04:28:38.790Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2025-02-17T04:28:38.802Z] : × Below file formats are not allowed in Sigma
+[info] [2025-02-17T04:28:38.803Z] :  ==> app\js\app.13402721.js.map
+[info] [2025-02-17T04:28:38.805Z] :  ==> app\js\chunk-vendors.b4da94d4.js.map
+[info] [2025-02-17T04:28:38.807Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2025-02-17T04:34:36.834Z] : × Below file formats are not allowed in Sigma
+[info] [2025-02-17T04:34:36.838Z] :  ==> app\js\app.6151dd9c.js.map
+[info] [2025-02-17T04:34:36.839Z] :  ==> app\js\chunk-vendors.b4da94d4.js.map
+[info] [2025-02-17T04:34:36.840Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2025-02-17T04:34:36.848Z] : × Below file formats are not allowed in Sigma
+[info] [2025-02-17T04:34:36.848Z] :  ==> app\js\app.6151dd9c.js.map
+[info] [2025-02-17T04:34:36.849Z] :  ==> app\js\chunk-vendors.b4da94d4.js.map
+[info] [2025-02-17T04:34:36.850Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2025-02-17T04:39:08.876Z] : × Below file formats are not allowed in Sigma
+[info] [2025-02-17T04:39:08.881Z] :  ==> app\js\app.391ac049.js.map
+[info] [2025-02-17T04:39:08.883Z] :  ==> app\js\chunk-vendors.b4da94d4.js.map
+[info] [2025-02-17T04:39:08.884Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2025-02-17T04:39:08.894Z] : × Below file formats are not allowed in Sigma
+[info] [2025-02-17T04:39:08.895Z] :  ==> app\js\app.391ac049.js.map
+[info] [2025-02-17T04:39:08.896Z] :  ==> app\js\chunk-vendors.b4da94d4.js.map
+[info] [2025-02-17T04:39:08.898Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2025-02-17T04:51:00.288Z] : × Below file formats are not allowed in Sigma
+[info] [2025-02-17T04:51:00.292Z] :  ==> app\js\app.3292fc9e.js.map
+[info] [2025-02-17T04:51:00.293Z] :  ==> app\js\chunk-vendors.b4da94d4.js.map
+[info] [2025-02-17T04:51:00.294Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2025-02-17T04:51:00.306Z] : × Below file formats are not allowed in Sigma
+[info] [2025-02-17T04:51:00.307Z] :  ==> app\js\app.3292fc9e.js.map
+[info] [2025-02-17T04:51:00.308Z] :  ==> app\js\chunk-vendors.b4da94d4.js.map
+[info] [2025-02-17T04:51:00.308Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2025-02-17T05:08:59.813Z] : × Below file formats are not allowed in Sigma
+[info] [2025-02-17T05:08:59.817Z] :  ==> app\js\app.3292fc9e.js.map
+[info] [2025-02-17T05:08:59.818Z] :  ==> app\js\chunk-vendors.b4da94d4.js.map
+[info] [2025-02-17T05:08:59.819Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2025-02-17T05:08:59.831Z] : × Below file formats are not allowed in Sigma
+[info] [2025-02-17T05:08:59.832Z] :  ==> app\js\app.3292fc9e.js.map
+[info] [2025-02-17T05:08:59.832Z] :  ==> app\js\chunk-vendors.b4da94d4.js.map
+[info] [2025-02-17T05:08:59.833Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2025-02-17T05:54:35.246Z] : × Below file formats are not allowed in Sigma
+[info] [2025-02-17T05:54:35.250Z] :  ==> app\js\app.d04dd3dd.js.map
+[info] [2025-02-17T05:54:35.251Z] :  ==> app\js\chunk-vendors.b4da94d4.js.map
+[info] [2025-02-17T05:54:35.251Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2025-02-17T05:54:35.261Z] : × Below file formats are not allowed in Sigma
+[info] [2025-02-17T05:54:35.262Z] :  ==> app\js\app.d04dd3dd.js.map
+[info] [2025-02-17T05:54:35.263Z] :  ==> app\js\chunk-vendors.b4da94d4.js.map
+[info] [2025-02-17T05:54:35.263Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2025-02-17T06:00:51.689Z] : × Below file formats are not allowed in Sigma
+[info] [2025-02-17T06:00:51.692Z] :  ==> app\js\app.e8dd65d3.js.map
+[info] [2025-02-17T06:00:51.693Z] :  ==> app\js\chunk-vendors.b4da94d4.js.map
+[info] [2025-02-17T06:00:51.693Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2025-02-17T06:00:51.704Z] : × Below file formats are not allowed in Sigma
+[info] [2025-02-17T06:00:51.705Z] :  ==> app\js\app.e8dd65d3.js.map
+[info] [2025-02-17T06:00:51.706Z] :  ==> app\js\chunk-vendors.b4da94d4.js.map
+[info] [2025-02-17T06:00:51.706Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2025-02-17T06:04:48.773Z] : × Below file formats are not allowed in Sigma
+[info] [2025-02-17T06:04:48.777Z] :  ==> app\js\app.fb5a39cb.js.map
+[info] [2025-02-17T06:04:48.778Z] :  ==> app\js\chunk-vendors.b4da94d4.js.map
+[info] [2025-02-17T06:04:48.778Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2025-02-17T06:04:48.785Z] : × Below file formats are not allowed in Sigma
+[info] [2025-02-17T06:04:48.786Z] :  ==> app\js\app.fb5a39cb.js.map
+[info] [2025-02-17T06:04:48.787Z] :  ==> app\js\chunk-vendors.b4da94d4.js.map
+[info] [2025-02-17T06:04:48.788Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2025-02-17T06:12:21.878Z] : × Below file formats are not allowed in Sigma
+[info] [2025-02-17T06:12:21.881Z] :  ==> app\js\app.e3fd2379.js.map
+[info] [2025-02-17T06:12:21.882Z] :  ==> app\js\chunk-vendors.b4da94d4.js.map
+[info] [2025-02-17T06:12:21.883Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2025-02-17T06:12:21.890Z] : × Below file formats are not allowed in Sigma
+[info] [2025-02-17T06:12:21.891Z] :  ==> app\js\app.e3fd2379.js.map
+[info] [2025-02-17T06:12:21.892Z] :  ==> app\js\chunk-vendors.b4da94d4.js.map
+[info] [2025-02-17T06:12:21.892Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2025-02-17T06:12:36.152Z] : × Below file formats are not allowed in Sigma
+[info] [2025-02-17T06:12:36.167Z] :  ==> app\js\app.e3fd2379.js.map
+[info] [2025-02-17T06:12:36.168Z] :  ==> app\js\chunk-vendors.b4da94d4.js.map
+[info] [2025-02-17T06:12:36.170Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2025-02-17T06:12:36.183Z] : × Below file formats are not allowed in Sigma
+[info] [2025-02-17T06:12:36.184Z] :  ==> app\js\app.e3fd2379.js.map
+[info] [2025-02-17T06:12:36.185Z] :  ==> app\js\chunk-vendors.b4da94d4.js.map
+[info] [2025-02-17T06:12:36.186Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2025-02-17T06:16:35.969Z] : × Below file formats are not allowed in Sigma
+[info] [2025-02-17T06:16:35.973Z] :  ==> app\js\app.daa1878a.js.map
+[info] [2025-02-17T06:16:35.973Z] :  ==> app\js\chunk-vendors.b4da94d4.js.map
+[info] [2025-02-17T06:16:35.974Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2025-02-17T06:16:35.981Z] : × Below file formats are not allowed in Sigma
+[info] [2025-02-17T06:16:35.982Z] :  ==> app\js\app.daa1878a.js.map
+[info] [2025-02-17T06:16:35.983Z] :  ==> app\js\chunk-vendors.b4da94d4.js.map
+[info] [2025-02-17T06:16:35.984Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2025-02-17T06:18:54.658Z] : × Below file formats are not allowed in Sigma
+[info] [2025-02-17T06:18:54.662Z] :  ==> app\js\app.f0bdc0f1.js.map
+[info] [2025-02-17T06:18:54.662Z] :  ==> app\js\chunk-vendors.b4da94d4.js.map
+[info] [2025-02-17T06:18:54.663Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2025-02-17T06:18:54.672Z] : × Below file formats are not allowed in Sigma
+[info] [2025-02-17T06:18:54.676Z] :  ==> app\js\app.f0bdc0f1.js.map
+[info] [2025-02-17T06:18:54.678Z] :  ==> app\js\chunk-vendors.b4da94d4.js.map
+[info] [2025-02-17T06:18:54.680Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2025-02-17T06:22:36.786Z] : × Below file formats are not allowed in Sigma
+[info] [2025-02-17T06:22:36.789Z] :  ==> app\js\app.0a7fb732.js.map
+[info] [2025-02-17T06:22:36.790Z] :  ==> app\js\chunk-vendors.b4da94d4.js.map
+[info] [2025-02-17T06:22:36.791Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2025-02-17T06:22:36.798Z] : × Below file formats are not allowed in Sigma
+[info] [2025-02-17T06:22:36.799Z] :  ==> app\js\app.0a7fb732.js.map
+[info] [2025-02-17T06:22:36.800Z] :  ==> app\js\chunk-vendors.b4da94d4.js.map
+[info] [2025-02-17T06:22:36.800Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2025-02-17T06:24:01.984Z] : × Below file formats are not allowed in Sigma
+[info] [2025-02-17T06:24:01.987Z] :  ==> app\js\app.faa6846c.js.map
+[info] [2025-02-17T06:24:01.988Z] :  ==> app\js\chunk-vendors.b4da94d4.js.map
+[info] [2025-02-17T06:24:01.988Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
+[error] [2025-02-17T06:24:01.996Z] : × Below file formats are not allowed in Sigma
+[info] [2025-02-17T06:24:01.997Z] :  ==> app\js\app.faa6846c.js.map
+[info] [2025-02-17T06:24:01.998Z] :  ==> app\js\chunk-vendors.b4da94d4.js.map
+[info] [2025-02-17T06:24:01.999Z] : Note - File formats that can be packed are: txt, md, xml, dre, jpg, jpeg, png, gif, css, js, html, json, mp3, svg, woff, ttf, eot, webm, mp4, and woff2
